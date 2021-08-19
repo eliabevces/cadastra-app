@@ -17,7 +17,7 @@ $ git clone https://github.com/eliabevces/cadastra-app
 
 #### Entre no repositório
 ```bash
-$ cd backend
+$ cd backend/database
 ```
 
 #### Execute o servidor
