@@ -1,0 +1,42 @@
+:root {
+    --color1: rgb(0, 225, 137);
+    --color2: rgb(27, 43, 92);
+  }
+
+.menu {
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    height: 100vh;
+    width: 100vw;
+    background-image: url(https://media-exp1.licdn.com/dms/image/C4E0BAQEJSMOpB8B27A/company-logo_200_200/0/1556218159101?e=2159024400&v=beta&t=le1joGxvv9FvTCy8nYIwrI8fVotzBxVBeblrw1BJsVo);
+}
+
+nav{
+    margin: 0;
+    padding: 10px 10px 0px 10px;
+    background-color: rgba(230, 240, 236, 0.7);
+}
+
+
+ul{
+    /* margin: 0; */
+    display:inline-flex;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 80%;
+}
+
+li {
+    display: inline;
+
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Bebas Neue';
+    font-size: 1.5rem;
+
+}
+
+

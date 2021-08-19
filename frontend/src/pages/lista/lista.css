@@ -1,0 +1,15 @@
+table {
+  border-radius: 10px;
+  background-color: rgba(75, 91, 138, 0.089);
+  overflow: hidden;
+}
+
+.searchBar {
+  display: flex;
+  align-items: flex-start;
+  padding-bottom: 10px;
+}
+
+.searchBar input {
+  margin-right: 10px;
+}

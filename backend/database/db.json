@@ -1,0 +1,48 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "João",
+      "sexo": "Masculino",
+      "email": "joao@gmail.com",
+      "senha": "senha123",
+      "telefone": "34 998546842",
+      "cep": "38402105",
+      "cidade": "Uberlândia",
+      "estado": "Minas Gerais"
+    },
+    {
+      "nome": "Eliabe Vinicius Costa e Silva",
+      "sexo": "masculino",
+      "email": "eibvinicius@hotmail.com",
+      "senha": "sda",
+      "telefone": "32545484232",
+      "cep": "395821164523",
+      "cidade": "SAO PAULO",
+      "estado": "SAO PAULO",
+      "id": 2
+    },
+    {
+      "nome": "Eick Tomaz",
+      "sexo": "masculino",
+      "email": "eliabeviniciusces@gmail.com",
+      "senha": "123456",
+      "telefone": "32545484232",
+      "cep": "395821164523",
+      "cidade": "SAO PAULO",
+      "estado": "SAO PAULO",
+      "id": 3
+    },
+    {
+      "nome": "João",
+      "sexo": "feminino",
+      "email": "eliabevces@gmail.com",
+      "senha": "123456",
+      "telefone": "8549846219849541",
+      "cep": "321984621984621",
+      "cidade": "Uberlândia",
+      "estado": "Minas Gerais",
+      "id": 4
+    }
+  ]
+}
